@@ -19,10 +19,5 @@ public class Person {
 	
 	public static void main(String[] args) {
 		new Person();
-		System.out.println("dandandan");
-		System.out.println("dan");
-		System.out.println("sdfsdfds");
-		System.out.println("a");
-		System.out.println("b");
 	}
 }
