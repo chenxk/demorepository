@@ -20,5 +20,6 @@ public class Person {
 	public static void main(String[] args) {
 		new Person();
 		System.out.println("dan");
+		System.out.println("sdfsdfds");
 	}
 }
