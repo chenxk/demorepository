@@ -22,5 +22,6 @@ public class Person {
 		System.out.println("dandandan");
 		System.out.println("dan");
 		System.out.println("sdfsdfds");
+		System.out.println("b");
 	}
 }
