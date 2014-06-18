@@ -12,4 +12,10 @@ public class Person {
 		this.age = age;
 	}
 	
+	
+	@Override
+	public String toString() {
+		// TODO Auto-generated method stub
+		return super.toString();
+	}
 }
