@@ -8,6 +8,8 @@ public class Test {
 		System.out.println("sfsfsdf");
 		System.out.println("sdfsfdf");
 		System.out.println("it is cool!");
+		
+		System.out.println("baga baga");
 	}
 
 }
