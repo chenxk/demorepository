@@ -27,7 +27,5 @@ public class Test {
 		System.out.println("aa");
 		System.out.println("WTF");
 		System.out.println("Change");
-		System.out.println("Change");
-		System.out.println("Change");
 	}
 }
