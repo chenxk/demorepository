@@ -25,5 +25,6 @@ public class Test {
 		System.out.println("WTF");
 		System.out.println("WTF");
 		System.out.println("aa");
+		System.out.println("WTF");
 	}
 }
