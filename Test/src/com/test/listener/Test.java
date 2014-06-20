@@ -21,5 +21,7 @@ public class Test {
 		});
 
 		demo.click();
+		
+		System.out.println("WTF");
 	}
 }
