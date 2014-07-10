@@ -138,7 +138,7 @@ public class FileUpload extends HttpServlet {
 		}
 		
 		
-		//request.getRequestDispatcher("MyJsp.jsp").forward(request, response);
+		request.getRequestDispatcher("MyJsp.jsp").forward(request, response);
 		
 		//PrintWriter writer = response.getWriter();
 
